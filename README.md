@@ -111,6 +111,22 @@ This process will initially involve a few steps.
 
 ### **Conclusions**
 
+## 2. Predict the Next Day's Values Using the Cumulative Average of the Daily Percent Changes [IN PROGRESS]
+
+### **Hypothesis**
+
+The initial hypothesis is that for the next trading day, the behavior of the stock market can be predicted using the cumulative average of the daily percent changes.
+
+### **Process**
+
+1. Calculate the cumulative average of the daily percent changes.
+2. Determine the accuracy of the predictions.
+3. Determine how to remove outliers, if any exist.
+
+### **Results**
+
+### **Conclusions**
+
 
 <!--- URL Links --->
 [Dataset URL]: https://finance.yahoo.com/quote/%5EGSPC/history?period1=1546300800&period2=1577750400&interval=1d&filter=history&frequency=1d
